@@ -13,7 +13,7 @@ public class SendResponse {
 	public void sendResp(List<String> msg) {
 
 		try{
-			InetAddress address = InetAddress.getByName("192.168.0.106");
+			InetAddress address = InetAddress.getByName("127.0.0.1");
 			Socket socket = null;
 			ObjectOutputStream oos = null;
 
