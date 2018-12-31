@@ -12,7 +12,7 @@ public class SendCommand {
 		
 
 		try {
-			InetAddress address = InetAddress.getByName("192.168.0.107");
+			InetAddress address = InetAddress.getByName("127.0.0.1");
 			Socket socket = null;
 			ObjectOutputStream oos = null;
 			
