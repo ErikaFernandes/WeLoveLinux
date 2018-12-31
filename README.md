@@ -28,7 +28,7 @@
 # If you Want to Try
 
 - Alter the IP WebApp: WeLoveLinux/src/main/java/com/erika/welovelinux/connection/SendCommand.java (Alter from 127.0.0.1 to Linux IP)
-- Alter the IP Java Project: WeLoveLinuxAPI/src/com/erika/welovelinuxapi/connection/SendResponse.java (Alter from 127.0.0.1 to Computer IP where the WebApp is hosting)
+- Alter the IP Java Project: WeLoveLinuxAPI/src/com/erika/welovelinuxapi/connection/SendResponse.java (Alter from 127.0.0.1 to Computer IP where the WebApp is hosted)
 
 - If you are using VirtualBox: The Newtork configuration of your Virtual Machine needs to be as Bridged Adapter
    
