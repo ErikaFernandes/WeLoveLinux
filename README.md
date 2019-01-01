@@ -1,16 +1,16 @@
 # We Love Linux
 
   ## Web App 
-   - Send command to Java Project (By Socket)
-   - Save Command and Results
-   - Show result (When the command is a list)
-   - List Command and Result saved
+   - I Send command to Java Project (By Socket)
+   - I Save Command and Results
+   - I Show result (When the command is a list)
+   - I List Command and Result saved
    
    ## Java Project (Linux side)
-   - Receive Command from Web App (By Socket)
-   - Execute Command on terminal
-   - Receive Result from terminal 
-   - Send result to Web App 
+   - I Receive Command from Web App (By Socket)
+   - I Execute Command on terminal
+   - I Receive Result from terminal 
+   - I Send result to Web App 
    
    
    <br />
